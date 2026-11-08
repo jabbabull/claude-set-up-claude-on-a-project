@@ -14,5 +14,5 @@ Without the deny rules, Claude could read `.env` while debugging and pull secret
 
 ## Verification
 
-- `/memory`: Confirmed CLAUDE.md is loaded as project memory.(./CLAUDE.md)
+- `/memory`: Confirmed CLAUDE.md is loaded as project memory (./CLAUDE.md)
 - `/permissions`: Confirmed the allow / ask / deny rules above are listed.
