@@ -14,5 +14,5 @@ Without the deny rules, Claude could read `.env` while debugging and pull secret
 
 ## Verification
 
-- `/memory`: TODO, confirm the project `CLAUDE.md` is listed. It also loads `~/Development/claudetest/CLAUDE.md`, an unrelated parent-folder file.
-- `/permissions`: TODO, confirm the allow / ask / deny rules above are listed.
+- `/memory`: Confirmed CLAUDE.md is loaded as project memory.(./CLAUDE.md)
+- `/permissions`: Confirmed the allow / ask / deny rules above are listed.
